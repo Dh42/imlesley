@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/growing-things/</loc>
+<loc>http://localhost:4000/growing-things/</loc>
 <lastmod>2018-02-20T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>/about</loc>
+<loc>http://localhost:4000/about</loc>
 </url>
 <url>
-<loc>/categories</loc>
+<loc>http://localhost:4000/categories</loc>
 </url>
 <url>
-<loc>/contact</loc>
+<loc>http://localhost:4000/contact</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>/category/hobbies/</loc>
+<loc>http://localhost:4000/category/hobbies/</loc>
 </url>
 <url>
-<loc>/category/gardening/</loc>
+<loc>http://localhost:4000/category/gardening/</loc>
 </url>
 </urlset>

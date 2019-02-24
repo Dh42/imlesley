@@ -5,7 +5,7 @@ description: "Jekyll Template for Blogging"
 meta_description: "Keeping track of me and my spare with things that interest me."
 logo: 'assets/images/imlesley.png'
 favicon: 'assets/images/logo.png'
-baseurl: /
+baseurl: 
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://imlesley.us20.list-manage.com/subscribe/post?u=fd4d15eee2268e9a10810fa61&amp;id=7928f6ff33'
