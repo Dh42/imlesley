@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>No 317 - A blog about things that interest me</title>
+    <title>i'm lesley - A blog about things that interest me</title>
     <description>Jekyll Template for Blogging</description>
-    <link>http://localhost:4000/mediumish-theme-jekyll/</link>
-    <atom:link href="http://localhost:4000/mediumish-theme-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Feb 2019 10:30:25 -0600</pubDate>
-    <lastBuildDate>Sun, 24 Feb 2019 10:30:25 -0600</lastBuildDate>
+    <link>//</link>
+    <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 24 Feb 2019 10:45:33 -0600</pubDate>
+    <lastBuildDate>Sun, 24 Feb 2019 10:45:33 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -15,11 +15,11 @@
 
 &lt;p&gt;The newest hobby is trying my hand at growing things. I bought some succulents at first, which I have managed to keep alive for several months.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/mediumish-theme-jekyll/assets/images/post-2-20/long-pot.jpg&quot; alt=&quot;Long succulent pot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;//assets/images/post-2-20/long-pot.jpg&quot; alt=&quot;Long succulent pot&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Feb 2018 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/growing-things/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/growing-things/</guid>
+        <link>//growing-things/</link>
+        <guid isPermaLink="true">//growing-things/</guid>
         
         
         <category>hobbies</category>
