@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Get in contact with me
-permalink: /contact
+permalink: /contact/
 comments: false
 ---
