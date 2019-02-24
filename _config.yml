@@ -1,0 +1,48 @@
+# Site
+name: "i'm lesley - a blog about me and things that interest me"
+title: "i'm lesley - A blog about things that interest me"
+description: "Jekyll Template for Blogging"
+meta_description: "Keeping track of me and my spare with things that interest me."
+logo: 'assets/images/imlesley.png'
+favicon: 'assets/images/logo.png'
+baseurl: /mediumish-theme-jekyll
+google_analytics: 'UA-46278016-1'
+disqus: 'demowebsite'
+mailchimp-list: 'https://imlesley.us20.list-manage.com/subscribe/post?u=fd4d15eee2268e9a10810fa61&amp;id=7928f6ff33'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  lesley:
+    name: Lesley Paone
+    display_name: Lesley Paone
+    gravatar: 7d9f1968d8b2bcbbb6f9319d6b4bdf39
+    email: hi@imlesley.com
+    web: https://dh42.com
+    twitter: https://twitter.com/imlesleyp
+    description: "I develop applications in the e-commerce market space, I am also a co-founder of the open source e-commerce application thirty bees"
+
+# Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+highlighter: rouge
