@@ -2,7 +2,7 @@
 layout: post
 title:  "Banknotes"
 author: lesley
-categories: [ hobbies, gardening ]
+categories: [ hobbies, banknotes ]
 image: assets/images/post-2-24/dprk.jpg
 featured: true
 hidden: true
