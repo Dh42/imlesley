@@ -4,8 +4,8 @@ title:  "Starting Growing"
 author: lesley
 categories: [ hobbies, gardening ]
 image: assets/images/post-2-20/succulents.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 If you are familiar with me, you know that I work from an office in my home. I have an awesome commute, but it gets boring looking at the same walls every day. So lately I have started picking up more hobbies. 

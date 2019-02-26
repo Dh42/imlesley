@@ -6,7 +6,7 @@ meta_description: "Keeping track of me and my spare with things that interest me
 logo: 'assets/images/imlesley.png'
 favicon: 'assets/images/logo.png'
 baseurl:
-google_analytics: 'UA-46278016-1'
+google_analytics: 'UA-135220324-1'
 disqus: 'imlesley'
 mailchimp-list: 'https://imlesley.us20.list-manage.com/subscribe/post?u=fd4d15eee2268e9a10810fa61&amp;id=7928f6ff33'
 include: ["_pages"]
