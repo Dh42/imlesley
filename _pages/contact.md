@@ -6,7 +6,7 @@ comments: false
 ---
 <div class="row justify-content-between">
 <div class="col-md-9 pr-5">    
-<form id="my-awesome-form" action="https://api.formbucket.com/f/buk_VFI6AFscsgwvpxXzXUIuESS0" method="post" target="_blank">
+<form id="my-awesome-form" action="https://api.formbucket.com/f/buk_VFI6AFscsgwvpxXzXUIuESS0" method="post">
 <div class="form-group row">
     <label for="name" class="col-4 col-form-label">Name</label> 
     <div class="col-8">
