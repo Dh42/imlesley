@@ -6,7 +6,7 @@ comments: false
 ---
 
 <div class="row justify-content-between">
-<div class="col-md-8 pr-5">    
+<div class="col-md-9 pr-5">    
 
 <p>To be quite frank, I spend too much time working and not enough time on what interests me. That is why I have started a blog about what I want to write about and explore. I want to branch out, get more hobbies, and share them with the world.</p>
 
@@ -26,7 +26,7 @@ comments: false
 
 </div>
 
-<div class="col-md-4">
+<div class="col-md-3">
     
 <div class="sticky-top sticky-top-80">
 <h5>Lesley</h5>
