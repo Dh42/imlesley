@@ -4,8 +4,8 @@ title:  "Banknotes"
 author: lesley
 categories: [ hobbies, banknotes ]
 image: assets/images/post-2-24/dprk.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 Late last year I was browsing the internet late at night and came across a site selling banknotes. I started looking through them and I was fascinated. Looking at all of the different notes around the world was pretty interesting. 
