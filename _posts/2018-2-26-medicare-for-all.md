@@ -4,8 +4,8 @@ title:  "Medicare for All"
 author: lesley
 categories: [ politics ]
 image: assets/images/post-2-26/medicare-for-all.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 Medicare for all is a hot topic these days. It might be one of the hottest topics in the election coming up next year. Almost all democratic candidates for president in the next election have embraced it, some have put out plans for it as well. Personally, I am for medicare for all, but on a fiscal level I think all of the candidates are wrong on how to implement it. 

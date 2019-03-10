@@ -30,7 +30,7 @@ plugins_dir:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -46,3 +46,6 @@ paginate_path: /page:num/
 # Other
 markdown: kramdown
 highlighter: rouge
+
+sass:
+  style: compressed
