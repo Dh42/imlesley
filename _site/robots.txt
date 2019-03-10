@@ -1,1 +1,1 @@
-Sitemap: /https://imlesley.com/sitemap.xml
+Sitemap: /sitemap.xml
