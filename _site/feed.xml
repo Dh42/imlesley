@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>i'm lesley - A blog about things that interest me</title>
-    <description>Jekyll Template for Blogging</description>
+    <description>I'm lesley, I am an e-commerce developer, open source maintainer, and I have a life outside of my work. This blog is about those things that interest me</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Mar 2019 20:26:14 -0600</pubDate>
-    <lastBuildDate>Sat, 09 Mar 2019 20:26:14 -0600</lastBuildDate>
+    <pubDate>Sat, 09 Mar 2019 20:31:00 -0600</pubDate>
+    <lastBuildDate>Sat, 09 Mar 2019 20:31:00 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
