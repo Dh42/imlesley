@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Banknotes"
-author: lesley
+author: lesley paone
 categories: [ hobbies, banknotes ]
 image: assets/images/post-2-24/dprk.jpg
 featured: false

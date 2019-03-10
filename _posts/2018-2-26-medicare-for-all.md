@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Medicare for All"
-author: lesley
+author: lesley paone
 categories: [ politics ]
 image: assets/images/post-2-26/medicare-for-all.jpg
 featured: false

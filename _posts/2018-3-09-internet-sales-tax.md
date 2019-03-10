@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Internet Sales Tax"
-author: lesley
+author: lesley paone
 categories: [ politics, ecommerce ]
 image: assets/images/post-3-09/tax.jpg
 featured: true

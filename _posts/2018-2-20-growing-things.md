@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Starting Growing"
-author: lesley
+author: lesley paone
 categories: [ hobbies, gardening ]
 image: assets/images/post-2-20/succulents.jpg
 featured: false
