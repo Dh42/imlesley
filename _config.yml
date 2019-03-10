@@ -5,7 +5,7 @@ description: "I'm lesley, I am an e-commerce developer, open source maintainer, 
 meta_description: "Keeping track of me and my spare with things that interest me."
 logo: 'assets/images/imlesley.png'
 favicon: 'assets/images/logo.png'
-baseurl: 
+baseurl:
 google_analytics: 'UA-135220324-1'
 disqus: 'imlesley'
 mailchimp-list: 'https://imlesley.us20.list-manage.com/subscribe/post?u=fd4d15eee2268e9a10810fa61&amp;id=7928f6ff33'
@@ -17,7 +17,7 @@ authors:
   lesley:
     name: Lesley Paone
     display_name: Lesley Paone
-    gravatar: 7d9f1968d8b2bcbbb6f9319d6b4bdf39
+    gravatar: e77f4e9c72366d3d1523590b02da5161
     email: hi@imlesley.com
     web: https://dh42.com
     twitter: https://twitter.com/imlesleyp
