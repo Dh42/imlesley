@@ -49,3 +49,5 @@ highlighter: rouge
 
 sass:
   style: compressed
+
+markdown: kramdown

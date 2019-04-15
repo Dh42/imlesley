@@ -4,8 +4,8 @@ title:  "Internet Sales Tax"
 author: lesley paone
 categories: [ politics, ecommerce ]
 image: assets/images/post-3-09/tax.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 If you know me, you know I have worked in the e-commerce industry for around 10 years. If you are not familiar with me, I have worked in the e-commerce industry for around 10 years, nice to meet you. In the last few years, specifically last year, internet sales tax has been a hot topic. As a professional in the e-commerce industry, let me come out and say I am for an e-commerce sales tax.
